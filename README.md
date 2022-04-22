@@ -1,1 +1,1 @@
-# Zadanie2_KonwersjaTekstu
+# Zadanie1_RowKwadratowe
